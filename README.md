@@ -4,9 +4,8 @@ An inquisitive, agile and hardworking person. Passionate in data analytics and m
 
 Interested in: 
 <ul>
-    <li>Data Analytics</li>
+    <li>Data Engineering</li>
     <li>Data Science</li>
-    <li>Machine Learning</li>
 </ul>
 
 ## Tech Stacks 🤖
