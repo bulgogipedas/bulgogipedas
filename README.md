@@ -1,7 +1,6 @@
 # 👾 Hi, I'm Rapli
 
-Data engineer and ML practitioner. I enjoy building robust pipelines, making sense of messy data, and shipping things that actually work.
-Currently interested in data engineering and data science — from orchestration and transformation to model training and deployment.
+Enjoy play with data <3
 
 
 ## Data Engineering
