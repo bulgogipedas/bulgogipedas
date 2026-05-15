@@ -27,6 +27,6 @@ Playing fifa, mobile legends and e-football
 
 ## 📈 Here's my stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulgogipedas&theme=tokyonight&layout=compact) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulgogipedas&theme=tokyonight&layout=compact&cache_seconds=1800&langs_count=8) <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulgogipedas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
